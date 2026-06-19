@@ -20,7 +20,7 @@ function App() {
       />
 
       <h1>shashank & sumukha g</h1>
-      <h3>devops</h3>
+      <h3>devops sucess</h3>
 
       <p>
         Passionate developer with experience building modern web applications,
