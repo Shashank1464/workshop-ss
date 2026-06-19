@@ -27,7 +27,7 @@ steps:
     run: |
       curl \
         -X POST \
-        -H "Authorization: Bearer ${{ secrets.SHASHANK_14641 }}" \
+        -H "Authorization: Bearer ${{ secrets.DEPLOY_TOKEN }}" \
         -F "file=@site.zip" \
-        "${{ secrets.http://13.60.21.244/deploy }}"
+        "${{ secrets.DEPLOY_URL }}"
 ```
