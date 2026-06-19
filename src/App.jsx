@@ -20,7 +20,7 @@ function App() {
       />
 
       <h1>John Doe</h1>
-      <h3>Full Stack Developer</h3>
+      <h3>devops</h3>
 
       <p>
         Passionate developer with experience building modern web applications,
