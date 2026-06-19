@@ -30,4 +30,3 @@ steps:
         -H "Authorization: Bearer ${{ secrets.DEPLOY_TOKEN }}" \
         -F "file=@site.zip" \
         "${{ secrets.DEPLOY_URL }}"
-```
